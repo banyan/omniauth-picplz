@@ -1,6 +1,6 @@
 # Omniauth Picplz [![Build Status](https://secure.travis-ci.org/banyan/omniauth-picplz.png)](http://travis-ci.org/banyan/omniauth-picplz)
 
-Strategy to auth with Hatena via OAuth1.0a in OmniAuth.
+Strategy to auth with Picplz via OAuth2.0 in OmniAuth.
 
 Get your API key at http://picplz.com/apps/
 
