@@ -12,6 +12,14 @@ Be sure when you register callback url will be "http://sample.com/auth/picplz/ca
       provider "picplz", ENV['PICPLZ_CLIENT_ID'], ENV['PICPLZ_CLIENT_SECRET']
     end
 
+## Altenative Implement
+
+There is another implement, [arunagw/omniauth-picplz] (https://github.com/arunagw/omniauth-picplz).
+
+If you use mine, you need to add the strategy to your `Gemfile`:
+
+    gem 'omniauth-picplz', :git => 'https://github.com/banyan/omniauth-picplz.git'
+
 ## Ruby
 
 Tested with the following Ruby versions:
